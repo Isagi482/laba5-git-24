@@ -1,3 +1,4 @@
+# Новая функция в ветке feature
 import os
 import csv
 from typing import List, Iterator, Generator
@@ -272,3 +273,4 @@ def main():
 # Запуск
 if __name__ == "__main__":
     main()
+# Изменение в оригинале
